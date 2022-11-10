@@ -21,7 +21,14 @@ Source - https://arxiv.org/pdf/2107.07045.pdf
 - [DrWhy](https://github.com/ModelOriented/DrWhy)
 - [Skater](https://github.com/oracle/Skater)
 
+### Ethical AI Frameorks
+- [OECD AI Principles](https://oecd.ai/en/ai-principles)
+- [Google AI Principles](https://ai.google/principles/)
+- [Facebook's five pillars of Responsible AI](https://ai.facebook.com/blog/facebooks-five-pillars-of-responsible-ai/)
+- [IBM AI Ethics](https://www.ibm.com/artificial-intelligence/ethics)
+
 ### Article - 
+- [What is Explainable AI?](https://towardsdatascience.com/what-is-explainable-ai-xai-afc56938d513)
 - [Recent advancements in explainable neural networks](https://towardsdatascience.com/recent-advancements-in-explainable-neural-networks-2cd06b5d2016)
 
 
