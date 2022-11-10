@@ -25,3 +25,6 @@ Source - https://arxiv.org/pdf/2107.07045.pdf
 - [Recent advancements in explainable neural networks](https://towardsdatascience.com/recent-advancements-in-explainable-neural-networks-2cd06b5d2016)
 
 
+### Research -
+[Enhancing Explainability of Neural Networks through Architecture Constraints](https://arxiv.org/abs/1901.03838)
+[Fooling LIME and SHAP: Adversarial Attacks on Post hoc Explanation Methods](https://arxiv.org/abs/1911.02508)
